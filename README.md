@@ -25,7 +25,17 @@
     <img src="https://img.shields.io/badge/Gmail📟-1F1F1F?style=flat-square&logo=gmail&logoColor=FF4B4B&labelColor=1F1F1F" alt="Gmail" />
   </a>
 </p>
+<h3 align="center">✨ Connect with Me</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank" title="Visit LinkedIn">
+    <img src="https://img.shields.io/badge/-Sreemai%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232A&color=0A66C2" alt="LinkedIn Badge" />
+  </a>
+  
+  <a href="mailto:sreemai18@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232A&color=EA4335" alt="Gmail Badge" />
+  </a>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Sreemai Annam</h1>
