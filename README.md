@@ -1,8 +1,9 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sreemai18/Sreemai18/main/banner.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="banner" width="100%">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Sreemai Annam</h1>
 <h3 align="center">Final-year CSE Student | AI & Cloud Enthusiast | Frontend Developer</h3>
