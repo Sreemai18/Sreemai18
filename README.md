@@ -11,6 +11,7 @@
   <a href="mailto:annamsreemai@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  </p>
 <div align="center">
 
   <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
@@ -24,6 +25,14 @@
 </div>
   
   
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn🕶️-1F1F1F?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1F1F1F" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:sreemai18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail📟-1F1F1F?style=flat-square&logo=gmail&logoColor=FF4B4B&labelColor=1F1F1F" alt="Gmail" />
+  </a>
 </p>
 
 
