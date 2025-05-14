@@ -1,30 +1,9 @@
 
 <!-- Banner Image -->
-<p align="center">
-  <img src="banner.png" alt="banner" width="40%">
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1f1f1f" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:annamsreemai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-1F1F1F?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1f1f1f" alt="Gmail" />
-  </a>
 
   
-</p>
   
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn🕶️-1F1F1F?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=1F1F1F" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:sreemai18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail📟-1F1F1F?style=flat-square&logo=gmail&logoColor=FF4B4B&labelColor=1F1F1F" alt="Gmail" />
-  </a>
-</p>
+
 <h3 align="center">✨ Connect with Me</h3>
 
 <p align="center">
@@ -32,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Sreemai%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232A&color=0A66C2" alt="LinkedIn Badge" />
   </a>
   
-  <a href="mailto:sreemai18@gmail.com" target="_blank" title="Send me an email">
+  <a href="mailto:annamsreemai@gmail.com" target="_blank" title="Send me an email">
     <img src="https://img.shields.io/badge/-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232A&color=EA4335" alt="Gmail Badge" />
   </a>
 </p>
