@@ -52,7 +52,9 @@
 
 
 ---
-
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreemai18&layout=compact&theme=radical&border_radius=10)
+---
 
 
 ### 🌐 Visitor Count
