@@ -1,5 +1,8 @@
 
 <!-- Banner Image -->
+<p align="center">
+  <img src="banner.png" alt="banner" width="100%">
+</p>
 
   
   
@@ -7,8 +10,8 @@
 <h3 align="center">✨ Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank" title="Visit LinkedIn">
-    <img src="https://img.shields.io/badge/-Sreemai%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232A&color=0A66C2" alt="LinkedIn Badge" />
+  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="mailto:annamsreemai@gmail.com" target="_blank" title="Send me an email">
