@@ -5,24 +5,15 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1f1f1f" alt="LinkedIn" />
   </a>
+
+  <a href="mailto:annamsreemai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-1F1F1F?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1f1f1f" alt="Gmail" />
+  </a>
+
   
-  <a href="mailto:annamsreemai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  </p>
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/sreemai-annam-96bb94293/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="mailto:annamsreemai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️ Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-
-</div>
+</p>
   
   
 <p align="center">
