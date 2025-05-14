@@ -45,14 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreemai18&show_icons=true&theme=tokyonight" alt="Sreemai GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreemai18&theme=tokyonight" alt="Streak Stats"/>
-</p>
 
----
 
 ### 🌐 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sreemai18&color=blue)
